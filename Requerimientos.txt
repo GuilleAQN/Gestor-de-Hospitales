@@ -1,0 +1,36 @@
+Doctores:Cedula
+Nombre
+Apellido
+Telefono
+Correo Electronico
+Direccion
+Especialidad (Pediatra - Otorrinolaringólogo/a - Oftalmólogo/a - Psiquiatra - Psicólogo/a - Medico/a General - 
+Cardiólogo/a - Ginecólogo/a - Ortopeda - Dermatologo/a)
+
+Empleados:
+Cedula
+Nombre
+Apellido
+Telefono
+Correo Electronico
+Direccion
+Rol (Enfermera, Limpieza, Mantenimiento)
+Rangos (Enfermero: Encargado General, Encargado y Auxiliar.
+Limpieza: Encargado General y Auxiliar.
+Mantenimiento: Encargado General y Auxiliar.)
+
+Pacientes:
+Cedula
+Nombre
+Apellido
+Telefono
+Correo Electronico
+Direccion
+
+Insumos:
+Codigo
+Nombre
+Estado (En existencia o Fuera de Existencia)
+Cantidad
+Tipo (Utensilios, Gastables y Medicamentos)
+Forma (Solo para medicamentos; Oral, Pastilla e Inyectado)
