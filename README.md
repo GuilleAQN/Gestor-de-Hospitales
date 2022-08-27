@@ -1,5 +1,5 @@
 Grupo: HyperCode https://github.com/GuilleAQN/Gestor-de-Hospitales
 
-Omar Aquino 21-0689
-Luis Figuereo 21-0587 
-Francisco Cordero 21-0893
+Omar Guillermo Aquino Mena 21-0689
+Luis Daniel Figuereo Alvarez 21-0587 
+Francisco Javier Cordero Contreras 21-0893
